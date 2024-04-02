@@ -1,4 +1,3 @@
-# GitHub Page
 I will be a really good programmer, hopefully.
 
 <!---
