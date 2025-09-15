@@ -1,4 +1,4 @@
-I will be a really good programmer, hopefully.
+
 
 <!---
 LucasSavoie/LucasSavoie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
